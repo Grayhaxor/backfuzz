@@ -1,2 +1,2 @@
 # Installation: git clone https://github.com/localh0t/backfuzz
-# 
+# python backfuzz.py -h 10.xxx.xxx.xxx -p 9370 -min 1 -max 500 -s 1 -pl TCP
